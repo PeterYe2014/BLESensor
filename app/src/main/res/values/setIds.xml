@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="t1" type="id"></item>
+    <item name="t2" type="id"></item>
+    <item name="dn" type="id"></item>
+    <item name="da" type="id"></item>
+    <item name="ds" type="id"></item>
+</resources>
